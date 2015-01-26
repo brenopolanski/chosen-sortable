@@ -1,3 +1,11 @@
+/**
+ * Chosen Sortable - v0.1.0
+ * Chosen Sortable is a plugin for Chosen which enable a group of DOM elements to be sortable.
+ *
+ * Made by Breno Polanski
+ * Under MIT License
+ */
+
 // the semi-colon before function invocation is a safety net against concatenated
 // scripts and/or other plugins which may not be closed properly.
 ;(function ($, window, document, undefined) {
